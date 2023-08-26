@@ -1,6 +1,5 @@
 ---
 layout: interview
-editors: [ riya , namratha , aabha ]
 category: Intern Diaries
 post: 3
 interviewees: [ Hrishikesh Pable ]
