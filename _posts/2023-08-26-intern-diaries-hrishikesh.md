@@ -1,14 +1,13 @@
 ---
 layout: interview
+editors: [ riya , namratha , aabha ]
 category: Intern Diaries
 post: 3
 interviewees: [ Hrishikesh Pable ]
-editors: [ Riya , Namratha , Aabha ]
-title: Bridging the Gap between Neuroscience and AI
+title: "Bridging the Gap between Neuroscience and AI"
 image: assets/images/posts/intern-diaries-hrishikesh.png
-tags: [ Intern Diaries , Summer Internship, Canada, Carleton University, MITACS GlobaLink ]
-description: Hrishikesh Pable, a 4th year CSE undergrad, dishes out his wonderful story of working as a summer intern at Ottawa, Canada, utilising his opportunities in the best way possible and expanding his knowledge in the fields of Brain-inspired AI.
-During this amazing tenure, he discovers the impactful relationship between the fields of neuroscience and AI.
+description: Hrishikesh Pable, a 4th year CSE undergrad, dishes out his wonderful story of working as a summer intern at Ottawa, Canada, utilising his opportunities in the best way possible and expanding his knowledge in the fields of Brain-inspired AI. During this amazing tenure, he discovers the impactful relationship between the fields of neuroscience and AI.
+tags: [ Blog, Summer Internship, Canada, Carleton University, MITACS GlobaLink ]
 ---
 
 ## About Me:
