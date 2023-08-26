@@ -8,7 +8,7 @@ interviewees: [ Raghav Magazine ]
 title: "Learning City Map Models using Machine Learning"
 image: assets/images/posts/intern-diaries-raghav.png
 description: Raghav Magazine is a 4th year CSE undergrad. He shares his experience interning at Carleton University, Ottawa, Canada, this summer through MITACS GlobaLink, where he worked on a project titled "Learning City Map Models using Machine Learning".
-tags: [ Interview, Summer Internship, Canada, Carleton University ]
+tags: [ Blog, Summer Internship, Canada, Carleton University, MITACS GlobaLink ]
 ---
 
 ## Introduction
