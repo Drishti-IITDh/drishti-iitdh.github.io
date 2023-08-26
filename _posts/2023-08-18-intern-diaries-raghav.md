@@ -1,7 +1,5 @@
 ---
 layout: interview
-interviewers: [ subham, shahil ]
-editors: [ om ]
 category: Intern Diaries
 post: 1
 interviewees: [ Raghav Magazine ]
