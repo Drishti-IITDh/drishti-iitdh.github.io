@@ -1,12 +1,14 @@
-main: jekyll
-	bundle exec jekyll serve --livereload
+EXEC := bundle exec jekyll serve --livereload --incremental
 
-drafts: jekyll
-	bundle exec jekyll serve --livereload --drafts
+main:
+	$(EXEC)
 
-mobile: jekyll
-	bundle exec jekyll serve --livereload --host 192.168.1.15
+drafts:
+	$(EXEC) --drafts
 
-jekyll:
+mobile:
+	$(EXEC) --host 192.168.1.15
+
+install:
 	gem install jekyll bundler
 	bundle install
