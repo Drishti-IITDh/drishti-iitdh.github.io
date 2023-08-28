@@ -11,7 +11,7 @@ tags: [ Freshers ]
 
 Each program follows a distinct academic structure guided by its respective departmental curriculum. This curriculum meticulously outlines the courses to be completed in a semester-wise sequence, ensuring that the essential requirements for the specific degree are fulfilled. Moreover, the curriculum takes into account the prerequisites for various courses, facilitating a well-organized course schedule. It's worth noting that while this curriculum serves as a framework, students retain the flexibility to arrange their courses as per their preferences. For more comprehensive insights into the course curriculum, you can refer to the B.Tech. rulebook available on the [IITDh Intranet](https://intranet.iitdh.ac.in:444/pdf/circular/B.%20Tech.%20Rulebook_17Jul23.pdf), we have also made available a copy of it [here](/assets/pdfs/B. Tech. Rulebook_17Jul23.pdf).
 
-## Evaluation framework:
+## Evaluation Framework
 
 Semester Performance Index (SPI) is used to measure your overall semester performance. SPI is calculated for every semester and is a credit-weighted average of your grade points from the courses you took that semester. In short, your higher credit course grades contribute more to the SPI. Credits for a course are equal to the number of hours you are expected to spend on it every week (including class hours). Cumulative Performance Index (CPI) is similar to SPI but calculated over all semesters. CPI is our equivalent to CGPAs used in other institutes.
 
@@ -27,7 +27,7 @@ Semester Performance Index (SPI) is used to measure your overall semester perfor
 
 For the challenge takers out there, there is, in fact, a grade higher than an AA! Students who perform exceptionally well in a course may be awarded a special AP grade. However, AP and AA have the same grade point, i.e. 10. 
 
-## Branch Change:
+## Branch Change
 
 Students are eligible to apply for a change of branch/Programme after completing the first semester and before the start of the second semester. All branch transfers can be effected only once at the beginning of the second semester.
 
@@ -43,7 +43,7 @@ b. **No backlog at the end of the first semester.**
 
 Among all valid requests, a student with the highest CPI is chosen, and a branch/program is changed. The process is continued till the seats are filled, or all valid applications are considered. In case of a tie, the person with a higher JEE (Advanced) rank will be given the allotment.
 
-## Minor Programmes:
+## Minor Programmes
 
 IIT Dharwad provides students with the exciting opportunity to pursue a minor degree in any of four distinct domains:
 
@@ -56,7 +56,7 @@ For those aiming to attain a minor in any of these specialized fields, the requi
 
 The detailed rules and procedures regarding the academic curriculum including information on branch change, minor, etc. can be found in the B.Tech. rulebook.
 
-## Dynamic Learning Atmosphere:
+## Dynamic Learning Atmosphere
 
 The academic facilities on campus stand at par with global standards, boasting fully air-conditioned lecture halls, well-equipped laboratories, an extensive library, and serene study spots like the Student's Lounge and Reading Room. Amidst these facilities, there's a dynamic study environment, including the camaraderie during quizzes, midterms, and final exams. This environment can either serve as a supportive scaffold, with peers aiding your preparation through shared notes and insights, or it may foster a competitive spirit that could potentially dampen the spirit. It's a choice you'll navigate skillfully.
 
