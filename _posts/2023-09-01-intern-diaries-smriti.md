@@ -3,7 +3,7 @@ layout: interview
 category: Intern Diaries
 post: 5
 title: "Unveiling the future of communication through software defined radios"
-image:
+image: assets/images/posts/intern-diaries-smriti.png
 description: Smriti, a passionate 4th-year undergraduate student majoring in Electrical Engineering, dives into her incredible summer in Vancouver, at the University of British Columbia (UBC), where she assumes the role of a MITACS Research Intern. Her focus revolves around a captivating venture within the domain of next-generation Wireless Communications.
 tags: [ Intern Diaries, Blog, Summer Internship, Canada, University of British Columbia (UBC) ]
 ---
