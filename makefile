@@ -1,4 +1,4 @@
-EXEC := bundle exec jekyll serve --livereload --incremental
+EXEC := bundle exec jekyll serve --livereload
 
 main:
 	$(EXEC)

@@ -1,14 +1,14 @@
 # Site
 name: "Drishti"
 title: "Drishti"
-description: ""  
-logo: 'assets/images/logo-dark.png'
-logo-full: 'assets/images/logo-dark-full.png'
-favicon: 'assets/images/logo-dark.png'
-baseurl: ''
-google_analytics: 'G-577MRTS9CK'
-disqus: 'drishti-iitdh'
-# mailchimp-list: ''
+bio: ""  
+logo: assets/images/logo-dark.png
+logo-full: assets/images/logo-dark-full.png
+favicon: assets/images/logo-dark.png
+baseurl: 
+google_analytics: G-577MRTS9CK
+disqus: drishti-iitdh
+# mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
 email: drishti@iitdh.ac.in
@@ -55,6 +55,7 @@ team:
   sid:
     display_name: Siddhartha Prasad
     short_name: Sid
+    sub_role: Team Lead
     avatar: siddhartha.jpg
     email: 210030033@iitdh.ac.in
     instagram: siddhartha_pd
@@ -79,6 +80,7 @@ team:
   supriya:
     display_name: Supriya H
     short_name: Supriya
+    sub_role: Team Lead
     avatar: supriya.jpg
     email: 210020054@iitdh.ac.in
     instagram: sup_27__
@@ -95,6 +97,7 @@ team:
   pushpa:
     display_name: Pushpa Parvathi Battina
     short_name: Pushpa
+    sub_role: Team Lead
     avatar: pushpa.jpg
     email: 210010009@iitdh.ac.in
     instagram: pushpa_battina04
@@ -123,25 +126,129 @@ team:
     bio: An amateur and avid writer, here to serve you all the crisp updates and stories around, with a pinch of creativity! 
     twitter: MuktaVedpathak
     instagram: _mukta_vedpathak_29
-    linkedin: mukta-vedpathak-1152a8250
     email: muktavedpathak29@gmail.com
+    linkedin: mukta-vedpathak-1152a8250
+  deekshith:
+    display_name: Deekshith Kumar
+    short_name: Deekshith
+    avatar: deekshith.jpg
+    email: 220010039@iitdh.ac.in
+    web: 
+    instagram: https://www.instagram.com/deekshithpampati/
+    linkedin: 
+    bio: I'm all about humor and hard work. From delivering captivating narratives to infusing every situation with laughter, I'm your go-to journalist for a unique and engaging perspective.
+  vikas:
+    display_name: Vikas jain
+    short_name: Vikas
+    avatar: vikas.jpg
+    email: 220120029@iitdh.ac.in
+    web: 
+    instagram: 
+    linkedin: www.linkedin.com/in/vikasjain226
+    bio: An AI and ML enthusiast turned journalist, driven by the mission to bring to light the untold stories hidden within campus life, ensuring that awareness reaches everyone.
+  simoni:
+    display_name: Simoni Tripathi
+    short_name: Simoni
+    avatar: simoni.jpg
+    email: lilmonica26@gmail.com
+    web: 
+    instagram: https://instagram.com/simonitripathi?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
+    linkedin: https://www.linkedin.com/in/simoni-tripathi-035077268
+    bio: I imagine lavender skies with white roses•.•
+    twitter: moonmoniiiii
+  yasaswini:
+    display_name: Banavat Yasaswini
+    short_name: Yasaswini
+    avatar: yasaswini.jpg
+    email: 220010010@iitdh.ac.in
+    web: 
+    instagram: yasaswini_srinivas3985
+    linkedin: BANAVAT Yasaswini
+    bio:  I believe in the power of storytelling to drive positive change and foster understanding. By presenting diverse perspectives and exploring multifaceted issues, I aim to inform and engage readers in meaningful conversations.
   riya:
-    display_name: Riya C 
+    display_name: Riya Ninad Chitnis
     short_name: Riya
     avatar: riya.jpg
-    bio: Passionate about writing and eager to bring to you crisp content that speaks on its on accord
     email: riyanchitnis@gmail.com
-  abha:
-    display_name: Abha
-    short_name: Abha
-    avatar: abha.jpg
-    bio: Just an enthusiastic reader and writer craving for knowledge and adventures ...
+    web: 
+    instagram: 
+    linkedin: 
+    bio: Passionate about writing and eager to bring to you crisp content that speaks on its on accord
+  aditi:
+    display_name: Aditi Soukar
+    short_name: Aditi
+    avatar: aditi.jpg
+    email: 220030001@iitdh.ac.in
+    web: 
+    instagram: instagram.com/aditisoukar
+    linkedin: https://www.linkedin.com/in/aditi-soukar-833360250
+    bio: I am a sports enthusiast here to write some content because I like typing on the keyboard and it's fun coming up with things to write.
+    twitter: soukaraditi
+  tushar:
+    display_name: Tushar Moitra
+    short_name: Tushar
+    avatar: tushar.jpg
+    email: tmoitra78@gmail.com
+    web: 
+    instagram: tachefied
+    linkedin: 
+    bio: Currently Pursuing BS in Interdisciplinary Sciences. Interested in AI-ML and the math behind it. I like writing poems and jamming with the guitar in my free time.
+  namratha:
+    display_name: Thella Namratha
+    short_name: Namratha
+    avatar: namratha.jpg
+    email: ep23bt003.iitdh.ac.in
+    web: 
+    instagram: 
+    linkedin: 
+    bio: Always challenging myself to put the best out there. Highlighting various topics to reach a larger diaspora. Also, here to make all the content you read interesting and indulging.
+    twitter: _kimie_kim
+  aiswarya:
+    display_name: Aiswarya M S
+    short_name: Aiswarya
+    avatar: aiswarya.jpg
+    email: ee23bt055@iitdh.ac.in
+    web: 
+    instagram: I'm on Instagram as @_ams_221. Install the app to follow my photos and videos. https://www.instagram.com/invites/contact/?i=a7q2emqadw1g&utm_content=rwqbuj3
+    linkedin: https://www.linkedin.com/in/aiswarya-m-s-217305285
+    bio: Enthusiastic Designer, who tries to convey messages through the world of colors... Still who wants to explore more about  that beautiful world..
+  preksha:
+    display_name: Preksha Patange
+    short_name: Preksha
+    avatar: preksha.jpg
+    email: mc23bt029@iitdh.ac.in
+    web: 
+    instagram: pprekshaa_05
+    linkedin: 
+    bio: A graphic design enthusiast.I like expressing thoughts through my art and designing.
+  sakeena:
+    display_name: Dodda Sakeena Sadhika 
+    short_name: Sakeena
+    avatar: sakeena.jpg
+    email: 210010062@iitdh.ac.in
+    web: 
+    instagram: https://instagram.com/sakeena._.7?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
+    linkedin: https://www.linkedin.com/in/sakeena-dodda-b30b29245
+    bio: Versatility is my strength and journalism makes me enthusiastic about it.So No longer wait let's delve into the untold narratives waiting to be discovered!!
+  lalitha:
+    display_name: Lalitha Tupakula
+    short_name: Lalitha
+    avatar: lalitha.jpg
+    email: Is23bm039@iitdh.ac.in
+    web: 
+    instagram: https://instagram.com/lalithathupakula?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D
+    linkedin: https://www.linkedin.com/in/thupakula-lalitha-071b61289
+    bio: Trying to quench my thirst of knowledge.
+    twitter: LalithaTupakula
+  aabha:
+    display_name: Aabha Devnikar
+    short_name: Aabha
+    avatar: aabha.jpg
+    email: ch23bt002@iitdh.ac.in 
+    web: 
     instagram: https://instagram.com/aabha_2503?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
     linkedin: https://www.linkedin.com/in/aabha-devnikar-b336a027a
-    email: ch23bt002@iitdh.ac.in 
-
-
-  
+    bio: Just an enthusiastic reader and writer craving for knowledge and adventures ...
 
 # Roles
 roles:
@@ -154,19 +261,38 @@ roles:
     members:
       - pushpa
       - varshitha
-      - mukta
+      - aditi
+      - simoni
+      - tushar
+      - aabha
+      - riya
+      - namratha
   - role: Journalists
     members:
       - supriya
-      - yash
+      - sakeena
+      - yasaswini
+      - deekshith
       - lavanya
+      - vikas
+      - lalitha
   - role: Designers
     members:
       - sid
       - atharva
       - mahesh
-      - upo
-
+      - aiswarya
+      - preksha
+  - role: Public Relations
+    members:
+      - lavanya
+      - sakeena
+      - yash
+      - aditi
+      - deekshith
+      - tushar
+      - lalitha
+      - yasaswini
 
 # Plugins
 plugins:
@@ -183,7 +309,7 @@ jekyll-archives:
     - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
+    category: /category/:name/
     
 # Pagination 
 paginate: 6
