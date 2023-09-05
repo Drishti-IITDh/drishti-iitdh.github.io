@@ -270,10 +270,10 @@ roles:
   - role: Journalists
     members:
       - supriya
+      - lavanya
       - sakeena
       - yasaswini
       - deekshith
-      - lavanya
       - vikas
       - lalitha
   - role: Designers
