@@ -37,7 +37,7 @@ engineering and motorsports. The club provides a platform for students to design
 race formula-style cars. Members collaborate on various aspects of vehicle design, including
 chassis, aerodynamics, propulsion, and electronics.The club offers hands-on experience,
 workshops, and industry insights, fostering a passion for automotive technology and racing
-among its members at IIT Bombay.
+among its members at IIT Dharwad.
 
 ## CODING CLUB
 The Coding Club at IIT Dharwad is a student-led initiative focused on programming and
