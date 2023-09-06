@@ -4,7 +4,7 @@ interviewers: [ yash, lavanya, supriya ]
 editors: [ pushpa, varshitha ]
 category: Alum Corner
 post: 2
-interviewees: [ Sonu Sourav ]
+guests: [ Sonu Sourav ]
 title:  "College Chronicles, Career Adventures: Insights on the Transition"
 image: assets/images/posts/alum-corner-sonu.png
 description: Sonu Sourav is an Electrical Engineering Department graduate from the class of 2021. In this interview, characterized by his genuine openness and benevolent nature, he candidly recounts his personal narrative, with the intention of motivating and encouraging individuals to embrace the profound transformative influence that their college experiences can yield.

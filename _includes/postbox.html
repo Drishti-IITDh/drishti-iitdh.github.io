@@ -58,9 +58,9 @@
                         {% if forloop.rindex0 > 1 %},{% endif %}
                         {% if forloop.rindex0 == 1 %}&{% endif %}
                         {% endfor %}
-                        {% if post.interviewees %} With {% endif %}
-                        {% for interviewee in post.interviewees %}
-                        {{ interviewee -}}
+                        {% if post.guests %} With {% endif %}
+                        {% for guest in post.guests %}
+                        {{ guest -}}
                         {% if forloop.rindex0 > 1 %},{% endif %}
                         {% if forloop.rindex0 == 1 %}&{% endif %}
                         {% endfor %}
