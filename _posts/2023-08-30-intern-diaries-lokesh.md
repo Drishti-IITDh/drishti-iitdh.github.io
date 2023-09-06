@@ -1,8 +1,8 @@
 ---
-layout: interview
+layout: blog
 category: Intern Diaries
 post: 4
-interviewees: [ Lokesh B. Jogi ]
+guests: [ Lokesh B. Jogi ]
 title: "Exploring Material Properties and Damping Behavior: A Summer Intern's Journey at Ruhr-Universität"
 image:  assets/images/posts/intern-diaries-lokesh.png
 description: Lokesh B Jogi, a proficient 4th-year undergraduate majoring in Mechanical Engineering, unveils his enriching journey as a summer intern at Ruhr-Universität, Bochum, Germany. Through his meticulous work and passion for mechanical engineering, Lokesh played an integral role in the Micromechanical and Macroscopic Modelling (MMM) research group while working on the topic of 'Material Properties and Damping Behaviour of Fibre Reinforced Composites (FRCs).

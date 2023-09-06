@@ -1,8 +1,8 @@
 ---
-layout: interview
+layout: blog
 category: Intern Diaries
 post: 3
-interviewees: [ Hrishikesh Pable ]
+guests: [ Hrishikesh Pable ]
 title: "Bridging the Gap between Neuroscience and AI"
 image: assets/images/posts/intern-diaries-hrishikesh.png
 description: Hrishikesh Pable, a 4th year CSE undergrad, dishes out his wonderful story of working as a summer intern at Ottawa, Canada, utilising his opportunities in the best way possible and expanding his knowledge in the fields of Brain-inspired AI. During this amazing tenure, he discovers the impactful relationship between the fields of neuroscience and AI.

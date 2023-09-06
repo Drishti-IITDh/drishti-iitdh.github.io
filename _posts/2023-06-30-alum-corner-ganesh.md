@@ -4,7 +4,7 @@ interviewers: [ yash, lavanya ]
 editors: [ pushpa, varshitha ]
 category: Alum Corner
 post: 1
-interviewees: [ Ganesh Samarth ]
+guests: [ Ganesh Samarth ]
 title:  "Navigating College: Lessons, Challenges, and Unforgettable Moments"
 image: assets/images/posts/alum-corner-ganesh.png
 description: Ganesh Samarth is a batch of 2021 graduate of the Department of Electrical Engineering. In this piece, he reflects on the ups and downs of his college life, along with sharing valuable insights and experiences worth learning from.

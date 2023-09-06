@@ -1,7 +1,7 @@
 ---
 layout: interview
 post: 1
-interviewees: Jiro Karlo
+guests: Jiro Karlo
 title:  "From Science Fiction to Real-World Impact: Jiro Karlo's Inspirational Research"
 interviewers: [ subham, supriya, lavanya ]
 editors: [ varshitha, pushpa ]
