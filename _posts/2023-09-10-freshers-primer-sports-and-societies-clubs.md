@@ -136,9 +136,6 @@ We're dedicated to not only amplifying student expression and talent but also ra
 * ## SMP (Student Mentoship Program)
 The Institute Student Mentorship Program (ISMP) is a program within the student community which is specifically made to help the first year students adjust to the new environment.The Institute Student Mentors (ISMs) monitor the progress of their mentees throughout the year and help them with their academic and personal problems.
 
-* ## OSS (Open Student Society)
-Open Student Society (OSS) is a community for students to join together to develop, innovate, share, and grow together as a community. It is important to note that OSS is not a club, rather a community that welcomes students, from all branches and walks of life, to participate and contribute. 
-
 
 # Places to Visit: Discovering Local Treasures
 
