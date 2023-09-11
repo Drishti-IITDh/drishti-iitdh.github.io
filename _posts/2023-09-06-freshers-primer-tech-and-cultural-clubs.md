@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 editors: [ yash, varshitha ]
 category: Fresher's Primer'23
 post: 3

@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 category: "Fresher's Primer'2023"
 post: 5
 title: "Thriving at  IIT Dharwad: Sports, Societies, and Hangouts"
