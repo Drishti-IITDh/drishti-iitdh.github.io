@@ -1,7 +1,7 @@
 ---
 layout: post
 authors: [ varshitha, pushpa ]
-category: Fresher's Primer'23
+category: Fresher's Primer '23
 post: 3
 title:  "Academic Roadmap"
 image: assets/images/posts/clt.png

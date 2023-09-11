@@ -1,8 +1,8 @@
 ---
 layout: post
 editors: [ yash, varshitha ]
-category: Fresher's Primer'23
-post: 3
+category: Fresher's Primer '23
+post: 4
 title:  "Exploring the Intersection of Technology and Culture: IIT Dharwad's Vibrant Councils"
 image: assets/images/posts/technical-cultural-clubs.png
 description: "Welcome to the vibrant world of technology and culture at IIT Dharwad! As you leaf through the pages of the fresher's primer, get ready to immerse yourself in the diverse mosaic that defines life on our campus. Our array of student-led clubs presents an unparalleled gateway for you to explore your passions, fuel your curiosity, and forge enduring friendships. From groundbreaking technological strides to captivating cultural journeys, these clubs serve as the crossroads where innovation and imagination meet. Discover the dynamic realm of the Technology and Cultural Councils, where boundless learning, growth, and enrichment await."

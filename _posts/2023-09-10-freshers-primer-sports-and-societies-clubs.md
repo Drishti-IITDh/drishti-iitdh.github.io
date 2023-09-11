@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "Fresher's Primer'2023"
+category: Fresher's Primer '23
 post: 5
 title: "Thriving at  IIT Dharwad: Sports, Societies, and Hangouts"
 image: assets/images/posts/sports-clubs-and-societies.png
