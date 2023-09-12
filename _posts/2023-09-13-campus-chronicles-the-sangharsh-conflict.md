@@ -1,7 +1,6 @@
 ---
 layout: post
 category: Campus Chronicles
-post: 1
 title: "The Sangharsh Conflict"
 image: assets/images/posts/basketball-court.png
 tags: [ Sangharsh ]
