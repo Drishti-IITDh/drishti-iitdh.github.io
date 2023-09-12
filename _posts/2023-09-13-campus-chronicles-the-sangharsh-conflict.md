@@ -1,6 +1,7 @@
 ---
 layout: post
 category: Campus Chronicles
+post: 1
 title: "The Sangharsh Conflict"
 image: assets/images/posts/basketball-court.png
 description: Drishti investigates into the recent heated conflict in the Sangharsh Nandaka vs. Vajra Basketball encounter, aiming to provide an objective assessment of the incident and comments from various stakeholders.
