@@ -1,8 +1,8 @@
 ---
 layout: blog
+category: Intern Diaries
+post: 7
 guests: [ Shashank P ]
-category: "Intern Diaries"
-post: 7 
 title:  "Unlocking the World of Internships: My Journey in Computer Science"
 image: assets/images/posts/intern-diaries-shashank.png
 description: "Shashank P, a fourth-year Computer Science Engineering student, takes you on a journey through his immersive internship experiences at Quantrium and Arista Networks. In this blog, Shashank not only shares his internship anecdotes but also dishes out valuable tips for a stellar internship journey. If you're a junior or new to the world of internships, this is your guide to navigating the internship maze successfully."
