@@ -6,8 +6,8 @@ post_class: post-template
 ---
 <div class="entry-header my-5">
     <!-- Series -->
-    {% if page.series %}
-    <h4 class="text-capitalize text-secondary"><a class="text-capitalize text-secondary" href="{{site.baseurl}}/series#{{ page.category | replace: " ", "-"  }}">{{ page.category }}</a> #{{page.post}}</h4>
+    {% if page.category %}
+    <h4 class="text-capitalize text-secondary"><a class="text-capitalize text-secondary" href="{{site.baseurl}}/series#{{ page.category | replace: " ", "-" | replace: "'", "" }}">{{ page.category }}</a> {% if page.post %}#{{page.post}}{% endif %}</h4>
     {% endif %}
     <!-- Post Title -->
     <h1 class="posttitle">{{ page.title }}</h1>
