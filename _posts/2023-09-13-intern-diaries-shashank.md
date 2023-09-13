@@ -1,6 +1,6 @@
 ---
 layout: blog
-authors: [ Shashank P ]
+guests: [ Shashank P ]
 category: "Intern Diaries"
 post: 7 
 title:  "Unlocking the World of Internships: My Journey in Computer Science"
