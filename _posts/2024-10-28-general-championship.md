@@ -145,7 +145,7 @@ To check out the incredible dance performances by the all the teams, click the l
 
 https://drive.google.com/drive/folders/1R7tArYg1H_6Z9QQk_NvA1AlZ-ZZYyYUz<br>
 
-####"A small hiccup during the GC"
+#### A small hiccup during the GC
 During the group dance event, an unexpected event stirred up. Ultimately, based on the accumulated points from the judges, Team 4 was awarded first place, and Team 3 came in second.<br>
 However, Team 3, contested this decision. They argued that Team 4 had exceeded the performance time limit of 10 minutes, as set by the event rules. Before the performances, Team 4 had requested permission from both the General Secretary of Sapphire, and the General Secretary of Cultural Affairs to extend their performance by 2-3 minutes. They had also consulted the other team heads, none of whom objected. However, Team 3 contended that a lack of objection didn't imply full consent, and they believed this oversight should give Team 4 a penalty of 10 points which would make the scores of both the teams equal making it a tie. Hence both of them would be sharing the first position. <br>
 After a long discussion, the teams overcame their differences. The issue was resolved, both the teams came to a mutual and amicable understanding and the General Secretary of Cultural Affairs made the final call awarding Team 4 first place. <br>
