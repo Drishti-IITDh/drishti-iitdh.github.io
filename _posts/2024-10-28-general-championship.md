@@ -22,7 +22,7 @@ The events and corresponding points awarded are as follows:
 - Pair on Stage Music: 50 points
 - Band Performance: 100 points
 - Dance Group: 100 points
-- Dance Duet: 50 poin+ts
+- Dance Duet: 50 points
 - Solo Dance: 30 points
 - Stage Play: 130 points
 - Mono Acting: 50 points
@@ -182,7 +182,7 @@ There was an incredible lineup of talented comedians bringing their own unique s
 After thoughtful consideration, the winners were finally revealed much to the audience's relief:<br>
 First place  : Team 4 Harsh Meena<br>
 Second place : Team 2 Arshdeep Singh<br>
-Third place  : Team 1 Sudhanshu Shukla<br>
+Third place  : Team 1 Sudhakar Shivanand<br>
 
 *Points awarded*<br>
 Team 4 -5pts<br>
