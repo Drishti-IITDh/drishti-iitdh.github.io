@@ -1,14 +1,15 @@
 ---
 layout: blog
-editors: [ Namratha ]
 category: Intern Diaries
-post: 
+post: 8
+guests: [ Abhiram K ]
 title:  "Summer at Caltech: All about SURF and the world of Astrophysics"
-image: 
-tags: [ Intern Diaries , Blog ]
+image: assets/images/posts/intern-diaries-abhiram.jpg
+description: Abhiram K, an aspiring 4th year Engineering Physics Undergraduate from IIT Dharwad, did his Summer Undergraduate Research Fellowships (SURF) program at Caltech, California Institute of Technology. An ardent physics lover, he worked as a summer intern under the faculty at Caltech, exploring the works of ZTF Bright Transient Survey (BTS) and the mesmerizing 200-inch Hale Telescope at Palomar Observatory.
+tags: [ Blog, Summer Internship, Caltech ]
 --- 
 
-*Abhiram K, an aspiring 4th year Engineering Physics Undergraduate from IIT Dharwad, did his Summer Undergraduate Research Fellowships (SURF) program at Caltech, California Institute of Technology. An ardent physics lover, he worked as a summer intern under the faculty at Caltech, exploring the works of ZTF Bright Transient Survey (BTS) and the mesmerizing 200-inch Hale Telescope at Palomar Observatory* 
+
 
 #### Introduction
 
