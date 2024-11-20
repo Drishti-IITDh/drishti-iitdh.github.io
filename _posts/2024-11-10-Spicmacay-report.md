@@ -21,7 +21,7 @@ But the evening held an extraordinary surprise. Following the screening, the stu
 #### DAY 2 - TUESDAY, October 15
 
 A melodious evening commenced with a Hindustani Vocal performance by Padma Shri awardee **Pt Venkatesh Kumar** accompanied by artists Shri Sridhar Mandre on Tabla and Shri Guruprasad Hegde on Harmonium. Pandit Venkatesh Kumar born in Lakshmipura in the Bellary region of northern Karnataka, who is best known for his rendition of devotional songs composed by Swami Hairdas and Kanakadasa. He belongs to the **Kirana and Gwalior Gharana**. The audience was enthralled by his euphonious performance.
-![](../assets/images/posts/SPICMACAY-2024/1.jpg)
+![pic](../assets/images/posts/SPICMACAY-2024/1.jpg)
 
 #### DAY 3 - WEDNESDAY, October 16
 
