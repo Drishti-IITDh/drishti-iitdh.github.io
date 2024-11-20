@@ -3,7 +3,7 @@ layout: post
 editors: [ Namratha, Aabha, Preksha]
 category: SPICMACAY
 title:  "The SPICMACAY Convention at IIT Dharwad"
-image: assets/images/posts/frostfall_dance24.jpg
+image: assets/images/posts/SPICMACAY-2024/2.jpg
 tags: [ SPICMACAY ]
 ---
 
@@ -22,7 +22,6 @@ But the evening held an extraordinary surprise. Following the screening, the stu
 
 A melodious evening commenced with a Hindustani Vocal performance by Padma Shri awardee **Pt Venkatesh Kumar** accompanied by artists Shri Sridhar Mandre on Tabla and Shri Guruprasad Hegde on Harmonium. Pandit Venkatesh Kumar born in Lakshmipura in the Bellary region of northern Karnataka, who is best known for his rendition of devotional songs composed by Swami Hairdas and Kanakadasa. He belongs to the **Kirana and Gwalior Gharana**. The audience was enthralled by his euphonious performance.
 ![](assets/images/posts/SPICMACAY-2024/1.jpg)
-![](assets/images/posts/SPICMACAY-2024/2.jpg)
 
 #### DAY 3 - WEDNESDAY, October 16
 
