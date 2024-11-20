@@ -21,7 +21,7 @@ But the evening held an extraordinary surprise. Following the screening, the stu
 #### DAY 2 - TUESDAY, October 15
 
 A melodious evening commenced with a Hindustani Vocal performance by Padma Shri awardee **Pt Venkatesh Kumar** accompanied by artists Shri Sridhar Mandre on Tabla and Shri Guruprasad Hegde on Harmonium. Pandit Venkatesh Kumar born in Lakshmipura in the Bellary region of northern Karnataka, who is best known for his rendition of devotional songs composed by Swami Hairdas and Kanakadasa. He belongs to the **Kirana and Gwalior Gharana**. The audience was enthralled by his euphonious performance.
-![pic](../assets/images/posts/SPICMACAY-2024/1.jpg)
+![](../assets/images/posts/SPICMACAY-2024/1.jpg)
 
 #### DAY 3 - WEDNESDAY, October 16
 
@@ -30,8 +30,8 @@ A melodious evening commenced with a Hindustani Vocal performance by Padma Shri 
 His performance brought the Ramayana to life, depicting iconic scenes such as Sita’s swayamvar, Rama’s vanvaas, Ravana’s abduction of Sita, the battle between Sugreev and Bali, and Rama’s victorious return to the throne. This impeccable and captivating presentation left the audience in awe.
 
 Students not only enjoyed a culturally enriching evening but also gained valuable **exposure to the rich traditions of Indian storytelling** and craftsmanship. Experiencing such art forms firsthand deepens their understanding of India’s cultural heritage, fostering an appreciation for the timeless values and artistic expressions that shape the nation’s identity. This event provided a unique opportunity for students to connect with their roots in an engaging and meaningful way.
-![](assets/images/posts/SPICMACAY-2024/3.jpg)
-![](assets/images/posts/SPICMACAY-2024/4.jpg)
+![](../assets/images/posts/SPICMACAY-2024/3.jpg)
+![](../assets/images/posts/SPICMACAY-2024/4.jpg)
 **The Team**
 
 #### DAY- 4 THURSDAY, 17 OCT
@@ -53,14 +53,14 @@ In the Fado singing workshop, Ms Sonia taught one of the songs of Fado to all th
 The basics of Shruti and the Swarasthanas were taught during the Carnatic vocal workshop. R. N. Thygarajan also taught about **Talas**, how to put a Tala while varying the number of Aksharas in a beat (speeds). Small songs/parts of songs by various iconic composers were also taught.
 
 In the F500+ auditorium, where all the shows took place, the event was inaugurated by the Dean SW Prof. Ramjee Repaka, Sangita Kala Acharya Vidwan R.N.Thyagarajan (Padma Shri awardee + Smt Divya Prabhu G.R.J, I.A.S. (DCLR Dharwad) and Prof. Shivaprasad Sonnada Math.
-![](assets/images/posts/SPICMACAY-2024/5.jpg)
-![](assets/images/posts/SPICMACAY-2024/6.jpg)
-![](assets/images/posts/SPICMACAY-2024/7.jpg)
-![](assets/images/posts/SPICMACAY-2024/8.jpg)
+![](../assets/images/posts/SPICMACAY-2024/5.jpg)
+![](../assets/images/posts/SPICMACAY-2024/6.jpg)
+![](../assets/images/posts/SPICMACAY-2024/7.jpg)
+![](../assets/images/posts/SPICMACAY-2024/8.jpg)
 **The INAUGURAL SESSION OF SPICMACAY**
 
 The most awaited session of the day was that of **Sangita Kalacharya Vidwan R.N.Thyagarajan** (Padma Shri awardee) who was accompanied by Vidushi Charulatha Ramanujam, on violin, Vidwan Tumkur B.Ravishankar on mridangam Vidwan B.Rajasekhar on morsing and on the tanpura was one of R. N. Thyagarajan's disciple. There was a **"jugalbandi"** between the mridangam and the morsing. Jugalbandi is a dialogue or a challenge of how closely one player can imitate what the other player played on their instrument. The fierce competition between the musicians during jugalbandi was so energetic which made the audience erupt in chaos and applause. R. N. Thyagarajan’s vocal singing accompanied by the violin was extremely melodious too.
-![](assets/images/posts/SPICMACAY-2024/9.jpg)
+![](../assets/images/posts/SPICMACAY-2024/9.jpg)
 
 #### DAY- 5 FRIDAY, 18 OCT
 
@@ -72,8 +72,8 @@ During his workshop, R. N. Thyagarajan and his disciple also helped the students
 
 On the second day of the Bharatanatyam workshop, Mudras and Adavus of a song were taught. Vidushi Leela Samson also showed how words and sentences can be expressed using the Mudras to showcase the **intensity and strength of words**.
 
-![](assets/images/posts/SPICMACAY-2024/10.jpg)
-![](assets/images/posts/SPICMACAY-2024/11.jpg)
+![](../assets/images/posts/SPICMACAY-2024/10.jpg)
+![](../assets/images/posts/SPICMACAY-2024/11.jpg)
 
 In a jazz workshop, a variety of instruments are typically present, each contributing unique textures to the ensemble. The instructors of the Jazz workshop taught Jazz songs exploring boundaries and helping them structure their ideas. Students were also given ask suggestions on how to approach interpreting well-known pieces in their own way.
 
@@ -85,8 +85,8 @@ In the afternoon, the students witnessed an energetic and uplifting performance 
 
 The next event was followed by **Ms Sonia Shirsat**, who performed Fado singing, a folk art from Goa and was accompanied by Carlos Manuel Francisco on guitar. She not only enchanted the audience with her singing but also showed her strong and deep vocals attained from years of practice. The artist also received a standing ovation for the concert.
 
-![](assets/images/posts/SPICMACAY-2024/12.jpg)
-![](assets/images/posts/SPICMACAY-2024/13.jpg)
+![](../assets/images/posts/SPICMACAY-2024/12.jpg)
+![](../assets/images/posts/SPICMACAY-2024/13.jpg)
 
 The following show was that of **Shri Kaivalya Kumar Gurav** who performed Natya Sangeet & Marathi Abhangs with Shri Sridhar Mandre on table, Shri Guruprasad Hegde on harmonium, Shri Sukhad Munde on pakhawaj, Shri Samarth Patil on manjira. An **Abhang** is a unique style of singing that convey various stories in the Marathi language. Attendees thoroughly enjoyed the diversity and shift in the gears as we travelled to the realm of Marathi classical music. 
 
@@ -121,12 +121,12 @@ The 7th and the last day of the convention like all other days began early with 
 
 After that students embarked on an exciting and insightful heritage tour, exploring the **historic town of Kittur, the homeland of the legendary Rani Chennamma, as well as the Gangubai Hangal and Pt. Mallikarjuna Mansur museums**. The grandeur of Kittur Fort captivated students, with its intriguing secret rooms, passages, and intricate stone-carved idols of deities like Saptamatrika and Gajalakshmi. Surrounded by lush greenery, the fort’s beauty left a lasting impression on all. The museums added to the excitement, offering a glimpse into history with their remarkable collections of war paintings, sculptures, traditional attire, and artifacts from the era. This immersive experience brought India’s rich heritage to life, leaving students inspired and deeply connected to the past.
 
-![](assets/images/posts/SPICMACAY-2024/14.jpg)
-![](assets/images/posts/SPICMACAY-2024/15.jpg)
-![](assets/images/posts/SPICMACAY-2024/16.jpg)
-![](assets/images/posts/SPICMACAY-2024/17.jpg)
-![](assets/images/posts/SPICMACAY-2024/18.jpg)
-![](assets/images/posts/SPICMACAY-2024/19.jpg)
+![](../assets/images/posts/SPICMACAY-2024/14.jpg)
+![](../assets/images/posts/SPICMACAY-2024/15.jpg)
+![](../assets/images/posts/SPICMACAY-2024/16.jpg)
+![](../assets/images/posts/SPICMACAY-2024/17.jpg)
+![](../assets/images/posts/SPICMACAY-2024/18.jpg)
+![](../assets/images/posts/SPICMACAY-2024/19.jpg)
 **Some glimpses of the Heritage Tour**
  
                     *"There is no must in art because art is free"*-
