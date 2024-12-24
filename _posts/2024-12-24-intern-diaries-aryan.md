@@ -5,7 +5,7 @@ post: 9
 guests: [ Aryan Gupta ]
 title: "Internship at MITACS- Dreams and exploring Machine Learning"
 image: assets/images/posts/intern-diaries-aryan.jpg
-description: Meet Aryan Gupta, an aspiring Computer Science and Engineering undergraduate who worked as a research intern for MITACS Globalink Research Internship program at OTU, Canada. He talked about the procedure that was required to apply for this internship and the projects he did related to Machine Learning, Data Science and Raman Spectra. Along with this, he also shared his experience of exploring the serene beauty of Canada, his build up to how he made his research papers with supportive peers and professors and gave a few tips for his juniors!.
+description: Meet Aryan Gupta, an aspiring Computer Science and Engineering undergraduate who worked as a research intern for MITACS Globalink Research Internship program at OTU, Canada. He talked about the procedure that was required to apply for this internship and the projects he did related to Machine Learning, Data Science and Raman Spectra. In addition, he shared his experiences of exploring the serene beauty of Canada, discussed the process of developing his research papers with the support of his peers and professors, and offered valuable tips to his juniors!
 tags: [ Intern Diaries, Blog, Summer Internship ]
 --- 
 
