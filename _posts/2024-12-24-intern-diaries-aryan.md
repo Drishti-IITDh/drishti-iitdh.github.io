@@ -46,4 +46,18 @@ If you’re planning to apply for international internships like MITACS, here ar
 
 Wishing you all the success in your journey ahead!
 
+---
+
+📢 **Join Our Team!**
+
+Inspired by this edition of Intern Diaries? Want to be a part of creating such impactful content? Here's your chance!  
+
+We are recruiting passionate individuals for **Editorial and Journalism verticals**. If you're a **UG 1st, 2nd, or 3rd-year student**, we’d love to have you onboard.  
+
+🗓 **Deadline to Apply:** 31st December 2024, 11:59 PM  
+🔗 **Fill out the recruitment form here:** [https://forms.gle/nxA4z7Ym7DcqiJkZ7](https://forms.gle/nxA4z7Ym7DcqiJkZ7)
+
+Don’t miss out on the opportunity to be part of **Team Drishti**!  
+
+
 
