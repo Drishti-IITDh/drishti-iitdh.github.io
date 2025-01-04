@@ -29,7 +29,7 @@ team:
   om:
     display_name: Om Patil
     short_name: Om
-    sub_role: Chief Editor
+    sub_role: Chief Editor, Editor
     avatar: om.jpg
     email: 200010036@iitdh.ac.in
     web: https://modernoctave.github.io/
@@ -39,7 +39,7 @@ team:
   shahil:
     display_name: Shahil Patel
     short_name: Shahil
-    sub_role: Chief Editor
+    sub_role: Chief Editor, Designer
     avatar: shahil.jpg
     email: 200010039@iitdh.ac.in
     linkedin: shahil-patel-97298b1bb
@@ -89,7 +89,7 @@ team:
   varshitha:
     display_name: Hema Varshitha Bandi
     short_name: Varshitha
-    sub_role: Chief Editor
+    sub_role: Chief Editor, Editor
     avatar: varshitha.jpg
     email: 210020005@iitdh.ac.in
     instagram: varshitha.bandi
