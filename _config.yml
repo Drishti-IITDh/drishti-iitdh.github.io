@@ -338,7 +338,7 @@ roles:
       - sheetal
   - role: Designers
     members:
-      - sid
+      - preksha
       - aiswarya
       - juhi
       - himaja
@@ -348,6 +348,7 @@ roles:
       - om
       - shahil
       - varshitha
+      - sid
       - tushar
       - aditi
       - atharva
