@@ -80,6 +80,7 @@ team:
   supriya:
     display_name: Supriya H
     short_name: Supriya
+    sub_role: Executor
     avatar: supriya.jpg
     email: 210020054@iitdh.ac.in
     instagram: sup_27__
@@ -114,7 +115,7 @@ team:
   lavanya:
     display_name: Lavanya Shende
     short_name: Lavanya
-    sub_role: Chief Editor
+    sub_role: Chief Editor, Executor
     avatar: lavanya.jpg
     email: 220120022@iitdh.ac.in
     instagram: lavanya_shende
