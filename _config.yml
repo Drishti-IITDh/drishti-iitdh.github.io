@@ -55,7 +55,6 @@ team:
   sid:
     display_name: Siddhartha Prasad
     short_name: Sid
-    sub_role: Team Lead
     avatar: siddhartha.jpg
     email: 210030033@iitdh.ac.in
     instagram: siddhartha_pd
@@ -338,6 +337,7 @@ roles:
       - sheetal
   - role: Designers
     members:
+      - sid
       - preksha
       - aiswarya
       - juhi
@@ -348,7 +348,6 @@ roles:
       - om
       - shahil
       - varshitha
-      - sid
       - tushar
       - aditi
       - atharva
