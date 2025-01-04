@@ -55,6 +55,7 @@ team:
   sid:
     display_name: Siddhartha Prasad
     short_name: Sid
+    sub_role: Team Lead
     avatar: siddhartha.jpg
     email: 210030033@iitdh.ac.in
     instagram: siddhartha_pd
@@ -102,7 +103,7 @@ team:
     email: 210010009@iitdh.ac.in
     instagram: pushpa_battina04
     linkedin: parvathi-battina
-    bio: Passionate about writing and creating captivating and engaging content for the club.
+    bio: With a strong foundation as a dedicated member and later as the Team Lead of the Editorial Team, I have honed skills in storytelling, team management, and content strategy. Passionate about amplifying voices and crafting impactful narratives, I strive to inspire creativity and uphold the highest standards of journalism.
   upo:
     display_name: Upakramanika
     short_name: Upo
@@ -114,7 +115,7 @@ team:
   lavanya:
     display_name: Lavanya Shende
     short_name: Lavanya
-    sub_role: Journalist
+    sub_role: Chief Editor, Journalist
     avatar: lavanya.jpg
     email: 220120022@iitdh.ac.in
     instagram: lavanya_shende
@@ -217,7 +218,7 @@ team:
   preksha:
     display_name: Preksha Patange
     short_name: Preksha
-    sub_role: Team Lead
+    sub_role: Designer
     avatar: preksha.jpg
     email: mc23bt029@iitdh.ac.in
     web: 
@@ -314,7 +315,6 @@ roles:
     members:
       - pushpa
       - supriya
-      - lavanya
   - role: Club Secretary
     members:
       - lavanya
@@ -325,7 +325,7 @@ roles:
     members:
       - aabha
       - namratha
-  - role: Journalists
+  - role: Executers
     members:
       - sakeena
       - yasaswini
@@ -338,7 +338,6 @@ roles:
   - role: Designers
     members:
       - sid
-      - preksha
       - aiswarya
       - juhi
       - himaja
