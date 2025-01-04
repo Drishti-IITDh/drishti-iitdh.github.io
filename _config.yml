@@ -80,7 +80,6 @@ team:
   supriya:
     display_name: Supriya H
     short_name: Supriya
-    sub_role: Journalist
     avatar: supriya.jpg
     email: 210020054@iitdh.ac.in
     instagram: sup_27__
@@ -115,7 +114,7 @@ team:
   lavanya:
     display_name: Lavanya Shende
     short_name: Lavanya
-    sub_role: Chief Editor, Journalist
+    sub_role: Chief Editor
     avatar: lavanya.jpg
     email: 220120022@iitdh.ac.in
     instagram: lavanya_shende
@@ -136,7 +135,7 @@ team:
     avatar: deekshith.jpg
     email: 220010039@iitdh.ac.in
     web: 
-    instagram: https://www.instagram.com/deekshithpampati/
+    instagram: deekshithpampati
     linkedin: 
     bio: I'm all about humor and hard work. From delivering captivating narratives to infusing every situation with laughter, I'm your go-to journalist for a unique and engaging perspective.
   vikas:
@@ -182,7 +181,7 @@ team:
     avatar: aditi.jpg
     email: 220030001@iitdh.ac.in
     web: 
-    instagram: instagram.com/aditisoukar
+    instagram: aditisoukar
     linkedin: https://www.linkedin.com/in/aditi-soukar-833360250
     bio: I am a sports enthusiast here to write some content because I like typing on the keyboard and it's fun coming up with things to write.
     twitter: soukaraditi
@@ -202,7 +201,7 @@ team:
     avatar: namratha.jpg
     email: ep23bt003.iitdh.ac.in
     web: 
-    instagram: https://www.instagram.com/_kimie.kim_/?next=%2F)
+    instagram: _kimie.kim_
     linkedin: https://www.linkedin.com/in/namratha-t-6b1630294/
     bio: Always challenging myself to put the best out there. Highlighting various topics to reach a larger diaspora. Also, here to make all the content you read interesting and indulging.
     twitter: _kimie_kim
@@ -212,7 +211,7 @@ team:
     avatar: aiswarya.jpg
     email: ee23bt055@iitdh.ac.in
     web: 
-    instagram: https://www.linkedin.com/in/aiswarya-m-s-217305285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+    instagram: aiswarya-m-s-217305285
     linkedin: https://www.linkedin.com/in/aiswarya-m-s-217305285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
     bio: I have a keen interest in graphic design, particularly in creating posters using Canva, as well as UI/UX design in web development. I am proficient in tools such as Canva and Figma and have a strong inclination toward artistic pursuits.
   preksha:
@@ -232,7 +231,7 @@ team:
     avatar: sakeena.jpg
     email: 210010062@iitdh.ac.in
     web: 
-    instagram: https://instagram.com/sakeena._.7?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
+    instagram: sakeena._.7
     linkedin: https://www.linkedin.com/in/sakeena-dodda-b30b29245
     bio: Versatility is my strength and journalism makes me enthusiastic about it.So No longer wait let's delve into the untold narratives waiting to be discovered!!
   lalitha:
@@ -241,7 +240,7 @@ team:
     avatar: lalitha.jpg
     email: Is23bm039@iitdh.ac.in
     web: 
-    instagram: https://instagram.com/lalithathupakula?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D
+    instagram: lalithathupakula
     linkedin: https://www.linkedin.com/in/thupakula-lalitha-071b61289
     bio: Trying to quench my thirst of knowledge.
     twitter: LalithaTupakula
@@ -251,7 +250,7 @@ team:
     avatar: aabha.jpg
     email: ch23bt002@iitdh.ac.in 
     web: 
-    instagram: https://instagram.com/aabha_2503?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
+    instagram: aabha_2503
     linkedin: https://www.linkedin.com/in/aabha-devnikar-b336a027a
     bio: An avid reader and writer, driven by a thirst for knowledge and experience, dedicated to capturing and presenting the vibrant pulse of campus life.
   juhi:
@@ -260,7 +259,7 @@ team:
     avatar: juhi.jpg
     email: mc23bt002@iitdh.ac.in
     web: 
-    instagram: https://www.instagram.com/_juh.iii_/profilecard/?igsh=dG4zYmQyZjFqYzJ6
+    instagram: _juh.iii_
     linkedin: https://www.linkedin.com/in/juhi-kumari-6540562b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
     bio: Emerging designer.
   kavichelvan:
@@ -269,7 +268,7 @@ team:
     avatar: kavichelvan.jpg
     email: me23bt028@iitdh.ac.in
     web: 
-    instagram: https://www.instagram.com/kavichelvan93/
+    instagram: kavichelvan93
     linkedin: https://www.linkedin.com/in/kavichelvan-k/
     bio: Building character and chasing dreams. I’m only believe on Jassi Bhai because game change player he is only one guy is a Jasprit Bumrah🐐
   himaja:
@@ -296,7 +295,7 @@ team:
     avatar: manvitha.png
     email: cs23bt061@iitdh.ac.in
     web: 
-    instagram: https://www.instagram.com/manvitha_8206?igsh=MTh6b2lyYWI3bGprdw==
+    instagram: manvitha_8206
     linkedin: https://www.linkedin.com/in/middepogu-manvitha-87a125294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
     bio: Storytelling Enthusiast.Always eager to learn,observe and contribute through words and creativity
   sheetal:
@@ -305,7 +304,7 @@ team:
     avatar: sheetal.jpg
     email: raosheetal1307@gmail.com
     web: 
-    instagram: https://www.instagram.com/dream.cookie._?igsh=MTBqMzg5Zm5rOXF0bg==
+    instagram: dream.cookie._
     linkedin: 
     bio: A social butterfly who thrives on good conversations and new connections!
 
