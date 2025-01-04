@@ -199,8 +199,8 @@ team:
     avatar: namratha.jpg
     email: ep23bt003.iitdh.ac.in
     web: 
-    instagram: 
-    linkedin: 
+    instagram: https://www.instagram.com/_kimie.kim_/?next=%2F)
+    linkedin: https://www.linkedin.com/in/namratha-t-6b1630294/
     bio: Always challenging myself to put the best out there. Highlighting various topics to reach a larger diaspora. Also, here to make all the content you read interesting and indulging.
     twitter: _kimie_kim
   aiswarya:
@@ -209,9 +209,9 @@ team:
     avatar: aiswarya.jpg
     email: ee23bt055@iitdh.ac.in
     web: 
-    instagram: I'm on Instagram as @_ams_221. Install the app to follow my photos and videos. https://www.instagram.com/invites/contact/?i=a7q2emqadw1g&utm_content=rwqbuj3
-    linkedin: https://www.linkedin.com/in/aiswarya-m-s-217305285
-    bio: Enthusiastic Designer, who tries to convey messages through the world of colors... Still who wants to explore more about  that beautiful world..
+    instagram: https://www.linkedin.com/in/aiswarya-m-s-217305285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+    linkedin: https://www.linkedin.com/in/aiswarya-m-s-217305285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+    bio: I have a keen interest in graphic design, particularly in creating posters using Canva, as well as UI/UX design in web development. I am proficient in tools such as Canva and Figma and have a strong inclination toward artistic pursuits.
   preksha:
     display_name: Preksha Patange
     short_name: Preksha
@@ -219,8 +219,9 @@ team:
     email: mc23bt029@iitdh.ac.in
     web: 
     instagram: pprekshaa_05
-    linkedin: 
-    bio: A graphic design enthusiast.I like expressing thoughts through my art and designing.
+    linkedin: http://linkedin.com/in/preksha-patange-5724482a3
+    bio: A passionate creator with a deep love for art and design.
+    twitter: https://x.com/patangepreksha?s=21
   sakeena:
     display_name: Dodda Sakeena Sadhika 
     short_name: Sakeena
@@ -248,51 +249,110 @@ team:
     web: 
     instagram: https://instagram.com/aabha_2503?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
     linkedin: https://www.linkedin.com/in/aabha-devnikar-b336a027a
-    bio: Just an enthusiastic reader and writer craving for knowledge and adventures ...
+    bio: An avid reader and writer, driven by a thirst for knowledge and experience, dedicated to capturing and presenting the vibrant pulse of campus life.
+  juhi:
+    display_name: Juhi Kumari
+    short_name: Juhi
+    avatar: juhi.jpg
+    email: mc23bt002@iitdh.ac.in
+    web: 
+    instagram: https://www.instagram.com/_juh.iii_/profilecard/?igsh=dG4zYmQyZjFqYzJ6
+    linkedin: https://www.linkedin.com/in/juhi-kumari-6540562b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+    bio: Emerging designer.
+  kavichelvan:
+    display_name: Kavichelvan
+    short_name: Kavi
+    avatar: kavichelvan.jpg
+    email: me23bt028@iitdh.ac.in
+    web: 
+    instagram: https://www.instagram.com/kavichelvan93/
+    linkedin: https://www.linkedin.com/in/kavichelvan-k/
+    bio: Building character and chasing dreams. I’m only believe on Jassi Bhai because game change player he is only one guy is a Jasprit Bumrah🐐
+  himaja:
+    display_name: Himaja Desale
+    short_name: HD
+    avatar: himaja.jpg
+    email: ee24bt006@iitdh.ac.in 
+    web: 
+    instagram: 
+    linkedin: https://www.linkedin.com/in/hkdesale?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+    bio: Hi! I'm Himaja, a 1st-year student pursuing Electronics and Electrical Engineering. I’m passionate about technology and design, and I love exploring creative ways to bring ideas to life. My hobbies include painting, watching dramas, and exploring new places. I’m always looking for new challenges to help me grow and innovate.
+  pranav:
+    display_name: Pranav Raj
+    short_name: pRj
+    avatar: pranav.png
+    email: ce24bt017@iitdh.ac.in
+    web: 
+    instagram: razjj_03
+    linkedin: 
+    bio: I'm Pranav, a civilian from civil department, from jharkhand. I joined and became a part of IIT DHARWAD from Aug' 24 and Drishti from Sept'24. 
+  manvitha:
+    display_name: Manvitha Middepogu
+    short_name: Manvitha
+    avatar: manvitha.png
+    email: cs23bt061@iitdh.ac.in
+    web: 
+    instagram: https://www.instagram.com/manvitha_8206?igsh=MTh6b2lyYWI3bGprdw==
+    linkedin: https://www.linkedin.com/in/middepogu-manvitha-87a125294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+    bio: Storytelling Enthusiast.Always eager to learn,observe and contribute through words and creativity
+  sheetal:
+    display_name: Nakka sheetal Rao
+    short_name: Sheetal
+    avatar: sheetal.jpg
+    email: raosheetal1307@gmail.com
+    web: 
+    instagram: https://www.instagram.com/dream.cookie._?igsh=MTBqMzg5Zm5rOXF0bg==
+    linkedin: 
+    bio: A social butterfly who thrives on good conversations and new connections!
 
 # Roles
 roles:
   - role: Chief Editors
     members:
       - subham
-      - om
-      - shahil
+      - pushpa
+      - supriya
+  - role: Club Secretary
+    members:
+      - lavanya
+  - role: Junior Club Secretary
+    members:
+      - preksha
   - role: Editors
     members:
-      - pushpa
-      - varshitha
-      - aditi
-      - simoni
-      - tushar
       - aabha
-      - riya
       - namratha
   - role: Journalists
     members:
-      - supriya
-      - lavanya
       - sakeena
       - yasaswini
       - deekshith
-      - vikas
       - lalitha
+      - pranav
+      - manvitha
+      - kavichelvan
+      - sheetal
   - role: Designers
     members:
       - sid
+      - aiswarya
+      - juhi
+      - himaja
+  - role: Our Past Members
+    members:
+      - om
+      - shahil
+      - varshitha
+      - tushar
+      - aditi
       - atharva
       - mahesh
-      - aiswarya
-      - preksha
-  - role: Public Relations
-    members:
-      - lavanya
-      - sakeena
+      - riya
       - yash
-      - aditi
-      - deekshith
-      - tushar
-      - lalitha
-      - yasaswini
+      - upo
+      - mukta
+      - vikas
+      - simoni
 
 # Plugins
 plugins:
