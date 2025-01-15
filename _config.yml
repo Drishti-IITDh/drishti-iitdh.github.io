@@ -229,6 +229,7 @@ team:
   sakeena:
     display_name: Dodda Sakeena Sadhika 
     short_name: Sakeena
+    sub_role: Team Lead
     avatar: sakeena.jpg
     email: 210010062@iitdh.ac.in
     web: 
@@ -323,8 +324,8 @@ roles:
       - preksha
   - role: Editors
     members:
-      - aabha
       - namratha
+      - aabha
   - role: Executors
     members:
       - sakeena
@@ -346,17 +347,6 @@ roles:
       - subham
       - om
       - shahil
-      - varshitha
-      - tushar
-      - aditi
-      - atharva
-      - mahesh
-      - riya
-      - yash
-      - upo
-      - mukta
-      - vikas
-      - simoni
 
 # Plugins
 plugins:
