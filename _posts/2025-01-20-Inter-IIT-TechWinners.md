@@ -1,8 +1,8 @@
 ---
 layout: interview
 editors: [ aayushi, sreejita ]
-category: Inter IIT Tech
-post: 1
+category: 
+post: 
 guests:
   [
     Dev Kaushal,
@@ -12,7 +12,7 @@ guests:
     Ahemad Noor,
     Prakriti Tripathi,
   ]
-title: "Inter IIT Questionnaire"
+title: "Inter IIT Tech Achievers"
 image: assets/images/posts/inter-iit-tech-2024.jpg
 description:
   [
