@@ -1,8 +1,6 @@
 ---
 layout: interview
 editors: [ aayushi, sreejita ]
-category: 
-post: 
 guests:
   [
     Dev Kaushal,
