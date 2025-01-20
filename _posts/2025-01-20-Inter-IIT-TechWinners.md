@@ -1,6 +1,6 @@
 ---
 layout: interview
-editors: [pushpa, varshitha]
+editors: [ aayushi, sreejita ]
 category: Inter IIT Tech
 post: 1
 guests:
