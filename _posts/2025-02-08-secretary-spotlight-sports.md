@@ -9,7 +9,7 @@ description: Fueled by a profound passion for yoga and enthusiasm for various at
 tags: [ Duty Dashboard, General Secretary, Sports ]
 ---
 
-### Q. Can you provide an update on the initiatives mentioned in your manifesto? Specifically, what have you accomplished so far and what actions are currently being taken?
+### Q1. Can you provide an update on the initiatives mentioned in your manifesto? Specifically, what have you accomplished so far and what actions are currently being taken?
 
 #### 1. Temporary Courts for Basketball, Volleyball, and Tennis
 As promised in my manifesto, temporary courts for basketball, volleyball, and tennis are currently under construction and are expected to be completed by the end of February this year. Additionally, the construction of a common ground for football, cricket, and hockey, along with a dedicated running track for athletics, is progressing well and will also be completed by the end of February.
@@ -31,23 +31,23 @@ As an alternative solution, after multiple discussions, we have devised a policy
 
 Transportation has been provided for inter-IIT teams to attend practice sessions and to play matches with other institutes teams and outside clubs. Along with this the inter-IIT athletics team was provided transportation to the RN Shetty Synthetic Track in Dharwad for their training sessions.
 
-### 2. You did draft an email outlining the “Procedure for Addressing Queries, Requirements, or Questions Related to Sports”, how was the feedback? Did it contribute to enhancing the management of the Sports Council?   
+### Q2. You did draft an email outlining the “Procedure for Addressing Queries, Requirements, or Questions Related to Sports”, how was the feedback? Did it contribute to enhancing the management of the Sports Council?   
 
 After drafting an email outlining the “Procedure for Addressing Queries, Requirements, or Questions Related to Sports,” the feedback from students was moderately positive but not entirely sufficient to improve the management of the sports council. To develop an efficient management system in our growing institute, it is essential to increase student contribution and participation.
 
-### 3.	What were the major challenges you have faced in your tenure from the students' side as well as the authorities' side and how did you resolve them ?
+### Q3.	What were the major challenges you have faced in your tenure from the students' side as well as the authorities' side and how did you resolve them ?
 
 The major challenges faced with the authorities primarily stem from their obligation to adhere to government-mandated rules and regulations for processes such as purchasing and construction, which often result in significant delays in completing tasks. For instance, the construction of the temporary ground faced delays due to such procedural constraints. Additionally, I observed some delays within the management system of the higher authorities, which also need improvement.
 
 On the student side, the main challenge is their lack of participation in sports-related activities. This may partly be due to the absence of outdoor playgrounds, but it is also evident that students are not actively engaging in indoor sports either. For instance, the attendance of students at practice sessions conducted by hired coaches has been noticeably low.
 
-### 4.	What strategies have you implemented to ensure that all students are provided with equal  opportunities to participate in their chosen sports? Additionally, have you hosted any competitions or are you planning to organize any in the near future?
+### Q4.	What strategies have you implemented to ensure that all students are provided with equal  opportunities to participate in their chosen sports? Additionally, have you hosted any competitions or are you planning to organize any in the near future?
 
 The strategy to ensure that all students are provided with equal opportunities to participate in their chosen sports involves making coaches available to all students without any restrictions.
 
 On Sports Day, we hosted competitions for indoor sports such as table tennis, badminton, and a marathon. Unfortunately, we were unable to host more competitions for outdoor sports last semester due to the unavailability of grounds in PC. However, as we will have a temporary playground available by the end of February, we are planning to organize the GC this semester accordingly.
 
-### 5.	How is the overall participation of students in sport related activities( like Inter IIT ) this year? How can we improve this?
+### Q5.	How is the overall participation of students in sport related activities( like Inter IIT ) this year? How can we improve this?
 
 The overall participation of students in sports-related activities, such as Inter-IIT, this year has not been up to the mark and needs improvement.
 
@@ -55,6 +55,6 @@ To address this, the sports culture on campus needs to be nurtured, which requir
 
 Additionally, improved sports facilities, such as better playgrounds and qualified coaches, will play a significant role in enhancing participation.
 
-### 6.	What message or advice would you like to convey to the incoming General Secretary for Sports and Athletics (GSSA) to help them effectively lead and inspire the student community?
+### Q6.	What message or advice would you like to convey to the incoming General Secretary for Sports and Athletics (GSSA) to help them effectively lead and inspire the student community?
 
 I will convey to the incoming General Secretary for Sports and Athletics (GSSA) that, first and foremost, taking on this responsibility requires resilience, dedication, and a willingness to invest proper time and effort to sustain the current growth phase of the sports culture in our developing institute. In my opinion, much of the burden of establishing basic sports facilities on campus has been alleviated. Therefore, your primary focus should be on fostering the sports culture by motivating students to actively participate in sports activities and organizing various competitions to engage them.
