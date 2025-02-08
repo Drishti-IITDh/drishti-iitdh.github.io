@@ -9,224 +9,52 @@ description: Fueled by a profound passion for yoga and enthusiasm for various at
 tags: [ Duty Dashboard, General Secretary, Sports ]
 ---
 
-<div align="center">
-    <img src="chart1.png" alt="My Image" width="400">
-</div>
+### Q. Can you provide an update on the initiatives mentioned in your manifesto? Specifically, what have you accomplished so far and what actions are currently being taken?
 
-<div class="flip-card-container">
+#### 1. Temporary Courts for Basketball, Volleyball, and Tennis
+As promised in my manifesto, temporary courts for basketball, volleyball, and tennis are currently under construction and are expected to be completed by the end of February this year. Additionally, the construction of a common ground for football, cricket, and hockey, along with a dedicated running track for athletics, is progressing well and will also be completed by the end of February.
 
-<div class="flip-card" onclick="this.classList.toggle('flipped')">
-    <div class="flip-card-inner">
-        <div class="flip-card-front">
-            <h2>What are the updates on the initiatives mentioned in the manifesto? What have been accomplished so far?</h2>
-        </div>
-        <div class="flip-card-back">
-            <h2>Temporary courts for basketball, volleyball, tennis; a common ground for football, cricket, and hockey, along with a dedicated running track will be completed by the end of February. Successfully onboarded coaches for athletics, hockey, football, and badminton. Working to recruit coaches for weightlifting, squash, tennis, and table tennis for proper training. Decided to use the leftover amount from this year's Gymkhana budget to cover the swimming pool's maintenance costs for the next year. The inter-IIT athletics team received transportation to the RN Shetty Synthetic Track in Dharwad for training sessions and also for practice sessions and matches with other institutes and clubs.</h2>
-        </div>
-    </div>
-</div>
+#### 2. Coaching Facilities for All Sports
 
-<div align="center">
-<div class="flip-card" onclick="this.classList.toggle('flipped')">
-    <div class="flip-card-inner">
-        <div class="flip-card-front">
-            <h2>You did draft an email outlining the “Procedure for Addressing Queries, Requirements, or Questions Related to Sports”, how was the feedback?</h2>
-        </div>
-        <div class="flip-card-back">
-            <h2>Feedback was moderately positive but not entirely sufficient to improve the management of the sports council.</h2>
-        </div>
-    </div>
-</div>
+To fulfill the commitment of providing coaching facilities for all sports, advertisements were published to hire coaches. As a result, we have successfully onboarded coaches for athletics, hockey, football, and badminton. Efforts are ongoing to recruit coaches for weightlifting, squash, tennis, and table tennis to ensure that all sports receive adequate training support.
 
-<div align="center">
-<div class="flip-card" onclick="this.classList.toggle('flipped')">
-    <div class="flip-card-inner">
-        <div class="flip-card-front">
-            <h2>What are the challenges you faced from the students' side as well as the authorities' side?</h2>
-        </div>
-        <div class="flip-card-back">
-            <h2>Authorities' side- Need to follow government regulations for purchasing and construction, leading to significant delays, such as those experienced with the temporary ground. Inefficiencies in the higher management system that require improvement. <br>
-            <br>
-            Students' side: Low participation in sports activities. While the lack of outdoor playgrounds may contribute, there is also a noticeable low attendance at indoor practice sessions led by hired coaches.<h2>
-        </div>
-    </div>
-</div>
+#### 3. Swimming Pool Operations
+
+The main challenge hindering the operation of the swimming pool is managing its maintenance costs. Government guidelines restrict higher authorities from allocating institute or public funds for swimming pool activities.
+
+To address this issue, several meetings have been held with higher authorities. However, despite pushing for the use of institute funds to operate the swimming pool, they were unable to agree. Instead, they proposed two options: a membership system or a fixed fee of Rs. 500 to 600 for all students, in addition to the Gymkhana fees. The first option is not viable due to the limited number of students, and based on my perspective and a student poll, the second option is also not favorable.
+
+As an alternative solution, after multiple discussions, we have devised a policy to utilize the leftover amount from the current year’s Gymkhana budget to cover the maintenance costs of the swimming pool for the following year.
 
 
-<div align="center">
-<div class="flip-card" onclick="this.classList.toggle('flipped')">
-    <div class="flip-card-inner">
-        <div class="flip-card-front">
-            <h2>What are some of the strategies you implemented to ensure that all students are provided with equal opportunities to participate in their chosen sports?</h2>
-        </div>
-        <div class="flip-card-back">
-            <h2>Ensured that all students were provided with equal opportunities to participate in their chosen sports which involved making coaches available to all students without any restrictions.</h2>
-        </div>
-    </div>
-</div>
+#### 4. Transportation for Sports Activities
 
-<div align="center">
-<div class="flip-card" onclick="this.classList.toggle('flipped')">
-    <div class="flip-card-inner">
-        <div class="flip-card-front">
-            <h2>Have you hosted any competitions or are you planning to organize any in the near future?</h2>
-        </div>
-        <div class="flip-card-back">
-            <h2>On Sports Day, hosted competitions for indoor sports such as table tennis, badminton, and a marathon. Were unable to host more competitions for outdoor sports last semester due to the unavailability of grounds in PC. However, as we will have a temporary playground available by the end of February, we are planning to organize the GC this semester accordingly.</h2>
-        </div>
-    </div>
-</div>
+Transportation has been provided for inter-IIT teams to attend practice sessions and to play matches with other institutes teams and outside clubs. Along with this the inter-IIT athletics team was provided transportation to the RN Shetty Synthetic Track in Dharwad for their training sessions.
 
-<div align="center">
-<div class="flip-card" onclick="this.classList.toggle('flipped')">
-    <div class="flip-card-inner">
-        <div class="flip-card-front">
-            <h2>How was the overall participation of students in sport related activities( like Inter IIT ) this year?</h2>
-        </div>
-        <div class="flip-card-back">
-            <h2>Not up to the mark and needs improvement.</h2>
-        </div>
-    </div>
-</div>
+### 2. You did draft an email outlining the “Procedure for Addressing Queries, Requirements, or Questions Related to Sports”, how was the feedback? Did it contribute to enhancing the management of the Sports Council?   
 
-<div align="center">
-<div class="flip-card" onclick="this.classList.toggle('flipped')">
-    <div class="flip-card-inner">
-        <div class="flip-card-front">
-            <h2>How can we improve participation from students?</h2>
-        </div>
-        <div class="flip-card-back">
-            <h2>Sports culture on campus needs to be nurtured. Seniors should take the initiative to guide juniors and encourage them to participate in outdoor activities, including sports as well as other extracurricular activities, alongside their academics. There should be cooperation and enthusiasm from the juniors. Improving sports facilities, such as better playgrounds and recruiting qualified coaches.</h2>
-        </div>
-    </div>
-</div>
+After drafting an email outlining the “Procedure for Addressing Queries, Requirements, or Questions Related to Sports,” the feedback from students was moderately positive but not entirely sufficient to improve the management of the sports council. To develop an efficient management system in our growing institute, it is essential to increase student contribution and participation.
 
-<div align="center">
-<div class="flip-card" onclick="this.classList.toggle('flipped')">
-    <div class="flip-card-inner">
-        <div class="flip-card-front">
-            <h2>Any message or advice to the incoming General Secretary for Sports and Athletics (GSSA)?</h2>
-        </div>
-        <div class="flip-card-back">
-            <h2>First and foremost, taking on this responsibility requires resilience, dedication, and a willingness to invest proper time and effort to sustain the current growth phase of the sports culture in our developing institute. Primary focus should be on fostering the sports culture by motivating students to actively participate in sports activities and organizing various competitions to engage them.</h2>
-        </div>
-    </div>
-</div>
-<br>
+### 3.	What were the major challenges you have faced in your tenure from the students' side as well as the authorities' side and how did you resolve them ?
 
-<div align="center">
-<div class="survey-container">
-    <h1>📊 "The Secretary Spotlight" Survey</h1>
-    <p> In January, Drishti conducted the "The Secretary Spotlight" Survey, which sought to assess the students contentment with the General Secretaries and their overall operations in a more in-depth manner than the typical manifestos. A total of 80 participants took part in the survey.</p>
-<div>
-<div>
+The major challenges faced with the authorities primarily stem from their obligation to adhere to government-mandated rules and regulations for processes such as purchasing and construction, which often result in significant delays in completing tasks. For instance, the construction of the temporary ground faced delays due to such procedural constraints. Additionally, I observed some delays within the management system of the higher authorities, which also need improvement.
 
-<div align="center">
-    <img src="Q1Chart.jpg" alt="My Image" width="700">
-</div>
+On the student side, the main challenge is their lack of participation in sports-related activities. This may partly be due to the absence of outdoor playgrounds, but it is also evident that students are not actively engaging in indoor sports either. For instance, the attendance of students at practice sessions conducted by hired coaches has been noticeably low.
 
-<div align="center">
-    <img src="Q2C.jpg" alt="My Image" width="700">
-</div>
+### 4.	What strategies have you implemented to ensure that all students are provided with equal  opportunities to participate in their chosen sports? Additionally, have you hosted any competitions or are you planning to organize any in the near future?
 
-<div align="center">
-    <img src="Q3C.jpg" alt="My Image" width="700">
-</div>
+The strategy to ensure that all students are provided with equal opportunities to participate in their chosen sports involves making coaches available to all students without any restrictions.
 
-<div align="center">
-    <img src="Q4C.jpg" alt="My Image" width="700">
-</div>
+On Sports Day, we hosted competitions for indoor sports such as table tennis, badminton, and a marathon. Unfortunately, we were unable to host more competitions for outdoor sports last semester due to the unavailability of grounds in PC. However, as we will have a temporary playground available by the end of February, we are planning to organize the GC this semester accordingly.
 
-<div align="center">
-    <img src="Q5C.jpg" alt="My Image" width="700">
-</div>
+### 5.	How is the overall participation of students in sport related activities( like Inter IIT ) this year? How can we improve this?
 
-<div align="center">
-    <img src="Q6C.jpg" alt="My Image" width="700">
-</div>
+The overall participation of students in sports-related activities, such as Inter-IIT, this year has not been up to the mark and needs improvement.
 
-<div align="center">
-    <img src="Q7C.jpg" alt="My Image" width="700">
-</div>
+To address this, the sports culture on campus needs to be nurtured, which requires increased interaction between senior and junior students. Seniors should take the initiative to guide juniors and encourage them to participate in outdoor activities, including sports as well as other extracurricular activities, alongside their academics. They need to motivate juniors to focus on their holistic development. In return, there should be cooperation and enthusiasm from the juniors.
 
-<div align="center">
-    <img src="Q8C.jpg" alt="My Image" width="700">
-<div>
+Additionally, improved sports facilities, such as better playgrounds and qualified coaches, will play a significant role in enhancing participation.
 
-<style>
-.flip-card-container {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap; /* Allows cards to stack on smaller screens */
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-    padding: 20px;
-}
+### 6.	What message or advice would you like to convey to the incoming General Secretary for Sports and Athletics (GSSA) to help them effectively lead and inspire the student community?
 
-
-.flip-card {
-    width: 90%;
-    max-width: 400px; /* Prevents it from getting too big on larger screens */
-    height: 350px;
-    perspective: 1000px;
-    cursor: pointer;
-    margin: 15px;
-}
-.flip-card-inner {
-    width: 100%;
-    height: 100%;
-    position: relative;
-    transition: transform 0.6s;
-    transform-style: preserve-3d;
-}
-.flip-card.flipped .flip-card-inner {
-    transform: rotateY(180deg);
-}
-.flip-card-front, .flip-card-back {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    backface-visibility: hidden;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    font-size: 0.8em;
-    padding: 10px;
-    box-sizing: border-box;
-    text-align: center; /* Ensures text stays inside */
-    word-wrap: break-word; /* Wraps text properly */
-    overflow: hidden; /* Prevents text from going out */
-    border-radius: 10px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
-}
-.flip-card-front {
-    background-color: #3498db;
-    color: white;
-}
-.flip-card-back {
-    background-color: #e74c3c;
-    color: white;
-    transform: rotateY(180deg);
-}
-
-@media (max-width: 600px) 
-{
-    .flip-card 
-    {
-        width: 80%; 
-        height: auto; 
-    }
-    
-    .flip-card-front, .flip-card-back 
-    {
-        font-size: 0.9em; 
-        padding: 5px;
-    }
-}
-</style>
-
-<br>
-
-*The views presented above are the guest's own and are not in any manner representative of the views of Drishti or IIT Dharwad in general.*
+I will convey to the incoming General Secretary for Sports and Athletics (GSSA) that, first and foremost, taking on this responsibility requires resilience, dedication, and a willingness to invest proper time and effort to sustain the current growth phase of the sports culture in our developing institute. In my opinion, much of the burden of establishing basic sports facilities on campus has been alleviated. Therefore, your primary focus should be on fostering the sports culture by motivating students to actively participate in sports activities and organizing various competitions to engage them.
