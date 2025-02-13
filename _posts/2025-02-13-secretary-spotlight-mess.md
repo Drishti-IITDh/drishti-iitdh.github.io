@@ -5,7 +5,7 @@ post: 2
 guests: [ Krishna Karthik ]
 editors: [ Namratha, Aayushi, Sreejita]
 title: "Interview with General Secretary of Mess Affairs"
-image: assets/images/posts/secretary-spotlight-karthik.png
+image: assets/images/posts/secretary-spotlight-karthik.jpg
 description: Under the series "Secretary Spotlight", this post covers the accomplishments, challenges faced, steps taken and the overall efforts made by the General Secretary of Mess Affairs. This interview raises crucial question on food wastage and introduction of eco-friendly practices adopted and also unravels the actions taken upon the student's feedback forms.
 tags: [General Secretary, Mess Affairs, Secretary Spotlight]
 --- 
