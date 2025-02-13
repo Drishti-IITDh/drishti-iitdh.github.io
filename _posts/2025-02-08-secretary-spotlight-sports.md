@@ -3,6 +3,7 @@ layout: blog
 category: Secretary Spotlight
 post: 1
 guests: [ Krishan ]
+editors: [ Namratha, Aayushi, Sreejita]
 title: "General Secretary Sports Affairs"
 image: assets/images/posts/secretary-spotlight-krishan.png
 description: Fueled by a profound passion for yoga and enthusiasm for various athletic endeavors, Krishan highly values honoring all sports and uplifting fellow athletes. Each competition provided him with a chance to push his limits, gain insights from fellow competitors, and delve into the lively essence of sportsmanship. This rich array of experiences inspired him to dedicate himself to building a nurturing athletic community where every individual's journey is acknowledged and celebrated. So read on to find out what the GSSA had said about his endeavors and the responsibilities he had carried to better the sports background in the institution.
