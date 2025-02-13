@@ -1,12 +1,13 @@
 ---
 layout: blog
-editors: [ Namratha Aayushi Sreejita]
-category: GSCA Report
-post: 
+category: Secretary Spotlight
+post: 2
+guests: [ Krishna Karthik ]
+editors: [ Namratha, Aayushi, Sreejita]
 title: "Interview with General Secretary of Mess Affairs"
-image: 
+image: assets/images/posts/secretary-spotlight-karthik.png
 description: Under the series "Secretary Spotlight", this post covers the accomplishments, challenges faced, steps taken and the overall efforts made by the General Secretary of Mess Affairs. This interview raises crucial question on food wastage and introduction of eco-friendly practices adopted and also unravels the actions taken upon the student's feedback forms.
-tags: [General Secretary of Mess Affairs, Interview, Blog]
+tags: [General Secretary, Mess Affairs, Secretary Spotlight]
 --- 
 
 #### 1. You mentioned in your manifesto that you would ensure diverse dietary preferences are catered to. How have you implemented this, and what progress has been made?
