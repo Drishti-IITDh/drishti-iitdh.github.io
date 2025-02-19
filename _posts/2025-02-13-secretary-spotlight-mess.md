@@ -52,8 +52,4 @@ of effort to successfully implement this change in the last semester.
 Another challenge has been the introduction of QR scanners in the mess to track attendance. While the system is not yet operational, it is expected to be fully implemented this semester.
 The QR scanners will help streamline the attendance tracking process and provide valuable data that can be used to enhance future meal planning and overall mess operations.
 
----
-
-*The views presented above are the blogger’s own and are not in any manner representative of the views of Drishti or IIT Dharwad in general.*
-
----
+[To check out General Secretary Mess Affairs(2024-25) Manifesto, click here!](https://drive.google.com/file/d/1d55LyvpH5vCMdZgJbsjSQrjGQ1fzQ1P2/view?usp=drive_link)
