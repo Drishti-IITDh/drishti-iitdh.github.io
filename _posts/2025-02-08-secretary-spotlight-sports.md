@@ -60,4 +60,4 @@ Additionally, improved sports facilities, such as better playgrounds and qualifi
 
 I will convey to the incoming General Secretary for Sports and Athletics (GSSA) that, first and foremost, taking on this responsibility requires resilience, dedication, and a willingness to invest proper time and effort to sustain the current growth phase of the sports culture in our developing institute. In my opinion, much of the burden of establishing basic sports facilities on campus has been alleviated. Therefore, your primary focus should be on fostering the sports culture by motivating students to actively participate in sports activities and organizing various competitions to engage them.
 
-[To check out General Secretary Cultural Affairs(2024-25) Manifesto, click here!](https://drive.google.com/file/d/1YWXcpMpGb3y1yjBNoTMU299DIqYtkAaX/view?usp=drive_link)
+[To check out General Secretary Sports Affairs(2024-25) Manifesto, click here!](https://drive.google.com/file/d/1YWXcpMpGb3y1yjBNoTMU299DIqYtkAaX/view?usp=drive_link)
