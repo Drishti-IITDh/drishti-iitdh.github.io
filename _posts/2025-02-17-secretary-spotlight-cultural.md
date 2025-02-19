@@ -79,3 +79,5 @@ often led to event delays or cancellations, particularly for club-led initiative
 payment delays disrupted event planning and execution. Despite these hurdles, we improvised and
 ensured that most events were conducted successfully. Moving forward, I hope these administrative
 processes are streamlined to enable smoother cultural operations.
+
+[To check out General Secretary Cultural Affairs(2024-25) Manifesto, click here!](https://drive.google.com/file/d/1m3d_08D-Jg5-JRzlphJsiP70VtvCM4jH/view?usp=drive_link)
