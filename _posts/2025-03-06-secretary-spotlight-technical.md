@@ -5,7 +5,7 @@ post: 4
 guests: [ Vansh Yadav ]
 editors: [ Aabha ]
 title: "Interview with General Secretary of Technical Affairs"
-image: 
+image: assets/images/posts/secretary-spotlight-vansh.JPG
 description: Under the series "Secretary Spotlight", this post covers the accomplishments, challenges faced, steps taken and the overall efforts made by the General Secretary of Technical Affairs. This interview raises crucial questions on conduction of workshops, expectations from PARSEC and technical skills for employment.
 tags: [General Secretary, Technical Affairs, Interview, Blog, Secretary Spotlight]
 --- 
