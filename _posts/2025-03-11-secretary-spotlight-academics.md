@@ -5,7 +5,7 @@ post: 5
 guests: [ Utkarsh Jaiswal ]
 editors: [ Sreejita ]
 title: "Interview with General Secretary of Academic Affairs"
-image: assets/images/posts/secretary-spotlight-urtkarsh.jpeg
+image: assets/images/posts/secretary-spotlight-utkarsh.jpg
 description: Under the series "Secretary Spotlight", this post covers the accomplishments, challenges faced, steps taken and the overall efforts made by the General Secretary of Academic Affairs. This interview raises crucial questions on college placements, student representation, industry collaborations, and policy changes regarding off-campus internships.
 tags: [General Secretary of Academic Affairs, Interview, Blog, Secretary Spotlight]
 --- 
