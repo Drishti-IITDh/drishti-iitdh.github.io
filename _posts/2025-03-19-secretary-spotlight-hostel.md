@@ -2,7 +2,7 @@
 layout: blog
 editors: [ Aayushi ] [Aabha]
 category: GSHA Report
-post: 
+post: 6
 title: "Interview with General Secretary of Hostel Affairs"
 image: 
 description: As part of the Secretary Spotlight series, this post features an interview with the General Secretary of Hostel Affairs covering questions regarding safety, accesibility and facilities. However, the GSHA provided brief responses and declined to offer any further explanations.
