@@ -1,6 +1,6 @@
 ---
 layout: blog
-editors: [ Aayushi ]
+editors: [Aayushi, Aabha]
 category: GSHA Report
 post: 6
 title: "Interview with General Secretary of Hostel Affairs"
