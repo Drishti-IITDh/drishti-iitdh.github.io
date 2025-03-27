@@ -3,9 +3,10 @@ layout : interview
 editors : [Aabha]
 category : Scholar Insights
 post : 3
+guests : [Venkateswarlu Gudepu]
 title : "From Rural Roots to Research Excellence: Dr. Venkateswarlu Gudepu’s Academic Journey"
 description : Drishti presents an inspiring journey of Dr. Venkateswarlu Gudepu, the first Ph.D. graduate in CSE from IIT Dharwad. From overcoming challenges to pioneering research in AI-driven telecom, his story is one of resilience, achievements, and valuable lessons. Dive into the interview to explore his experiences, setbacks, and message for aspiring researchers!
-image :
+image : assets/images/posts/scholar-insights-venkateswarlu.png
 tags : [Scholar Insights]
 ---
 
