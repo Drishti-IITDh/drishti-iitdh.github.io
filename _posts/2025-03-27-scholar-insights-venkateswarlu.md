@@ -57,10 +57,10 @@ I also had the privilege of attending renowned international research schools, w
 A typical day during my Ph.D. involved:<br>
 8:00 AM – 3:00 AM:
 
-    • Reviewing my research goals and tracking progress.<br>
-    • Meetings with my advisor, collaborating with teams, and implementing research findings.<br>
-    • Coding, testing, debugging, and preparing research manuscripts.<br>
-    • Taking short breaks to read the books, mentor students, or outings with roommates.<br>
+• Reviewing my research goals and tracking progress.<br>
+• Meetings with my advisor, collaborating with teams, and implementing research findings.<br>
+• Coding, testing, debugging, and preparing research manuscripts.<br>
+• Taking short breaks to read the books, mentor students, or outings with roommates.<br>
   
 
 ### 7.	Who or what has been your biggest source of inspiration throughout your academic journey?
