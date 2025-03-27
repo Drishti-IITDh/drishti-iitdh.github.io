@@ -77,9 +77,9 @@ My journey from struggling to afford education to becoming a Research Associate 
 ### 9.	How do you view the experience of studying and researching abroad? What are your expectations regarding cultural and academic diversity?
 Moving to the U.S. for research was a significant transition, but the experience has been enriching. Key takeaways:
 
-• **Highly Collaborative**: Access to top researchers, industry partnerships, and cutting-edge resources.
-• **Diverse & Inclusive**: Engaging with people from various cultural and academic backgrounds has broadened my perspective.
-• **Technology-Driven**: The advanced research infrastructure enables innovation at an accelerated pace.
+• **Highly Collaborative**: Access to top researchers, industry partnerships, and cutting-edge resources.<br>
+• **Diverse & Inclusive**: Engaging with people from various cultural and academic backgrounds has broadened my perspective.<br>
+• **Technology-Driven**: The advanced research infrastructure enables innovation at an accelerated pace.<br>
 <br>
 I aim to grow academically, contribute meaningfully, and mentor students who come from challenging backgrounds like mine.
 
