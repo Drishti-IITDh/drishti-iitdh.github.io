@@ -6,7 +6,7 @@ post: 4
 guests : [Zin Mar Myint]
 title: "Embracing Challenges Overseas: Ph.D Scholar Ms. Zin Mar Myint's story in Graph Theory"
 description: Drishit brings to you a stirring interview with Ms. Zin Mar Myint. With a keen interest in Graph Theory and Combinatorial Game Theory, she shares her experiences of pursuing a Ph.D. abroad, her aspirations and motivations, and provides valuable insights into the real-world applications of graph theory. Dive into this engaging conversation filled with inspiring perspectives and intriguing thoughts.
-image: assets/images/posts/scholar-insights-zin.jpg
+image: assets/images/posts/scholar-insights-zin2.png
 tags: [Scholar Insights]
 --- 
 
