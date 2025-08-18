@@ -4,7 +4,7 @@ category: Intern Diaries
 post: 10
 guest: [Yashaswini L]
 title: "Data Engineering Internship at RedBus"
-image:
+image: assets/images/posts/intern-diaries-yashaswini.jpg
 description: Meet Yashaswini L, a CSE undergraduate who landed a Data Engineering internship at RedBus right after her 2nd year! Ready for a sneak peek into her amazing journey?
 editors: [Aayushi , Aabha]
 tags: [ Intern Diaries, Blog, Summer Internship ]
@@ -51,5 +51,6 @@ Keep applying to many internships, stay active on LinkedIn, try to get in touch 
 ### Anything else you would like to share about your journey?
 
 This internship gave me a good exposure to the corporate world and helped me discover where my interest lies. I enjoyed it.
+
 
 ---
