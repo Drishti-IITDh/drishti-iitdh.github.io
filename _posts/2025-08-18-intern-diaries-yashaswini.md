@@ -2,7 +2,7 @@
 layout: blog
 category: Intern Diaries
 post: 10
-guest: [Yashaswini L]
+guests: [Yashaswini L]
 title: "Data Engineering Internship at RedBus"
 image: assets/images/posts/intern-diaries-yashaswini.jpg
 description: Meet Yashaswini L, a CSE undergraduate who landed a Data Engineering internship at RedBus right after her 2nd year! Ready for a sneak peek into her amazing journey?
@@ -58,4 +58,5 @@ This internship gave me a good exposure to the corporate world and helped me dis
 *The views presented above are the blogger’s own and are not in any manner representative of the views of Drishti or IIT Dharwad in general.*
 
 ---
+
 
