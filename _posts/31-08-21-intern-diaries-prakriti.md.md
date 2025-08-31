@@ -1,12 +1,12 @@
 ---
 layout: blog
 category: Intern Diaries
-post: 
+post: 11
 guest: [Prakriti Tripathi]
 title: "SWE Intern at Microsoft"
-image:
+image: assets/images/posts/intern-diary-prakriti.jpg
 description: Meet Prakriti from CSE department who bagged a Summer Internship at Microsoft, Hyderabad as an SWE Intern. Gaining hands-on experience with the software development life cycle to building knowledge in authentication and security practices while sharping her communication and collaboration skills through team interactions, Prakriti's experience has been a gamut of learning. Dive in to gain further insights!
-editors: Aayushi Aabha
+editors: [Aayushi , Aabha]
 tags: [ Intern Diaries, Blog, Summer Internship ]
 --- 
 
@@ -51,5 +51,6 @@ My roommate told me about this opportunity. It was on Microsoft's job portal (ca
 * After you clear the OA, you can **check out the behavioral section from the popular book, "cracking the coding interview" by Gayle**.
 
 * Also, please don't ignore your college courses (and CPI). It will be useful for interview rounds where a lot of questions are **an abstract version of what you learn in operating systems, databases or computer networks**. 
+
 
 ---
