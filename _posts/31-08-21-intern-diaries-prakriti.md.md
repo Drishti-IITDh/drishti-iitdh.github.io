@@ -2,7 +2,7 @@
 layout: blog
 category: Intern Diaries
 post: 11
-guest: [Prakriti Tripathi]
+guests: [Prakriti Tripathi]
 title: "SWE Intern at Microsoft"
 image: assets/images/posts/intern-diary-prakriti.jpg
 description: Meet Prakriti from CSE department who bagged a Summer Internship at Microsoft, Hyderabad as an SWE Intern. Gaining hands-on experience with the software development life cycle to building knowledge in authentication and security practices while sharping her communication and collaboration skills through team interactions, Prakriti's experience has been a gamut of learning. Dive in to gain further insights!
@@ -54,3 +54,4 @@ My roommate told me about this opportunity. It was on Microsoft's job portal (ca
 
 
 ---
+
