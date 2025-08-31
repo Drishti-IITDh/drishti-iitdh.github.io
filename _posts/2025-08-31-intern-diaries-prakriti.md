@@ -10,7 +10,7 @@ editors: [Aayushi , Aabha]
 tags: [ Intern Diaries, Blog, Summer Internship ]
 --- 
 
-### Give a brief introduction of yourself.
+### Introduction
 
 I'm Prakriti Tripathi, a 4th year UG student in the CSE department of IIT Dharwad. I'm interested in the field of AI/ML and software development. I enjoy playing basketball and the piano in my free time. 
 
@@ -30,7 +30,7 @@ My roommate told me about this opportunity. It was on Microsoft's job portal (ca
 
 * After lunch, we would go for a stroll around the campus. After this I'd get back to work until around 5 pm and then leave. 
 
-### Please share your experience including your role, project, skills you learned, etc.
+### Overall Experience
 
 * My role was software engineer intern. The **project I worked on** was from the AI platform team and basically involved **creating a backup cronjob service for one of their new routing algorithms**.
 
@@ -54,4 +54,5 @@ My roommate told me about this opportunity. It was on Microsoft's job portal (ca
 
 
 ---
+
 
